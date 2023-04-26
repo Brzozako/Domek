@@ -1,0 +1,25 @@
+﻿  border.cpp
+  main.cpp
+C:\Users\brzoz\source\repos\Dom\Dom\shape.h(4,13): error C2011: "Shape'': "class" wpisz ponownie definicję
+C:\Users\brzoz\source\repos\Dom\Dom\shape.h(4,7): message : zobacz deklarację „Shape”
+C:\Users\brzoz\source\repos\Dom\Dom\triangle.h(5,31): error C2504: „Shape”: klasa bazowa niezdefiniowana
+C:\Users\brzoz\source\repos\Dom\Dom\triangle.h(11,18): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Shape"
+C:\Users\brzoz\source\repos\Dom\Dom\shape.h(4,7): message : zobacz deklarację „Shape”
+C:\Users\brzoz\source\repos\Dom\Dom\triangle.h(11,5): error C3881: może dziedziczyć konstruktor tylko z bezpośredniej klasy podstawowej
+C:\Users\brzoz\source\repos\Dom\Dom\Rtriangle.h(5,32): error C2504: „Shape”: klasa bazowa niezdefiniowana
+C:\Users\brzoz\source\repos\Dom\Dom\Rtriangle.h(7,18): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Shape"
+C:\Users\brzoz\source\repos\Dom\Dom\shape.h(4,7): message : zobacz deklarację „Shape”
+C:\Users\brzoz\source\repos\Dom\Dom\Rtriangle.h(7,5): error C3881: może dziedziczyć konstruktor tylko z bezpośredniej klasy podstawowej
+C:\Users\brzoz\source\repos\Dom\Dom\rectangle.h(5,32): error C2504: „Shape”: klasa bazowa niezdefiniowana
+C:\Users\brzoz\source\repos\Dom\Dom\rectangle.h(12,18): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Shape"
+C:\Users\brzoz\source\repos\Dom\Dom\shape.h(4,7): message : zobacz deklarację „Shape”
+C:\Users\brzoz\source\repos\Dom\Dom\rectangle.h(12,5): error C3881: może dziedziczyć konstruktor tylko z bezpośredniej klasy podstawowej
+C:\Users\brzoz\source\repos\Dom\Dom\rectangle.h(5,17): error C2011: "Rectangle'': "class" wpisz ponownie definicję
+C:\Users\brzoz\source\repos\Dom\Dom\rectangle.h(5,7): message : zobacz deklarację „Rectangle”
+C:\Users\brzoz\source\repos\Dom\Dom\main.cpp(14,12): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Shape"
+C:\Users\brzoz\source\repos\Dom\Dom\shape.h(4,7): message : zobacz deklarację „Shape”
+C:\Users\brzoz\source\repos\Dom\Dom\main.cpp(20,15): error C2079: "r" używa niezdefiniowanego class "Rectangle"
+C:\Users\brzoz\source\repos\Dom\Dom\main.cpp(20,16): error C2440: "inicjowanie": nie można konwertować z "initializer list" na "int"
+C:\Users\brzoz\source\repos\Dom\Dom\main.cpp(20,16): message : Inicjalizator zawiera zbyt wiele elementów
+  rectangle.cpp
+  Generowanie kodu...
